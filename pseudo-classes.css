@@ -1,0 +1,15 @@
+.block {
+	list-style: none;
+	display: inline;
+}
+.inline {
+	display: block;
+	 border-spacing: 1px;
+	 margin: 25px;
+
+}
+.n-child(even numberd) {
+	border: 1px;
+
+}
+
